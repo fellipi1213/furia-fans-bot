@@ -1,0 +1,78 @@
+{
+  "historia": {
+    "fundacao": "A FURIA Esports foi fundada em agosto de 2017 por Jaime Pádua, André Akkari e Cris Guedes.",
+    "furia_antiga": "A primeira line-up da FURIA incluía jogadores como VINI, arT, yuurih, KSCERATO e ableJ. Essa fase ficou marcada pela agressividade no estilo de jogo e pelo rápido crescimento no cenário internacional.",
+    "primeiro_major": "A FURIA participou do seu primeiro Major em 2019, no FACEIT Major London.",
+    "melhor_resultado_major": "O melhor resultado da FURIA em Majors foi o Top 4 no IEM Rio Major 2022.",
+    "transicao_cs2": "Com a chegada do CS2, a FURIA reformulou seu elenco, apostando em novos talentos e manutenção da identidade agressiva.",
+    "transferencia_fallen": "Em julho de 2023, a FURIA anunciou a contratação histórica de Gabriel 'FalleN' Toledo, uma das maiores lendas do CS brasileiro. A negociação girou em torno de US$ 700 mil, vinda da Imperial. A chegada de FalleN à FURIA foi tratada como o maior movimento do CS nacional em anos, unindo gerações e reacendendo a esperança da torcida. Ele trouxe não só sua experiência como IGL e AWPer, mas também sua forte influência midiática e comercial."
+  },
+  "elencos": {
+    "2018": ["arT", "yuurih", "VINI", "KSCERATO", "ableJ", "guerri (coach)"],
+    "2019": ["arT", "yuurih", "VINI", "KSCERATO", "ableJ", "guerri (coach)"],
+    "2020": ["arT", "yuurih", "VINI", "KSCERATO", "HEN1", "guerri (coach)"],
+    "2021": ["arT", "yuurih", "VINI", "KSCERATO", "junior", "guerri (coach)"],
+    "2022": ["arT", "yuurih", "KSCERATO", "saffee", "drop", "guerri (coach)"],
+    "2023": ["arT", "yuurih", "KSCERATO", "saffee", "chelo", "guerri (coach)"],
+    "2024": ["yuurih", "KSCERATO", "saffee", "chelo", "FalleN", "sidde (coach)"],
+    "2025": ["KSCERATO", "yuurih", "Fallen", "molodoy", "YEKINDAR (stand-in)",  "skullz (banco)", "sidde (coach)"]
+  },
+  "utilidade": {
+    "molotov": "🔥A Molotov é usada pra forçar o adversário a sair de uma posição ou impedir que entre. Tanto a granada incendiária do CT como o cocktail Molotov do TR duram exatamente 7 segundos.",
+    "smoke": "🌫️A smoke cria uma cortina de fumaça que bloqueia a visão. Perfeita pra entradas ou escapes. Sua duração é limitada, girando em torno de vinte segundos, o que deve ser levado em consideração na hora de usar para que você não acabe perdendo a cobertura e ficando vulnerável.",
+    "flash": "💥A flash (ou bang) serve pra cegar o inimigo por alguns segundos e abrir espaço pra agressão. Ela tem duração de 4,87 segundos se olhar diretamente para ela",
+    "he": "💣A HE é uma granada de fragmentação, usada pra causar dano em área. Um máximo de uma dessas granadas pode causar 98 de dano a um jogador sem colete e 57 a um com colete.",
+    "decoy":"🎆A decoy ou granada de distração, é uma granada pouco utilizada no CS, com o objetivo de confundir os adversarios."
+  },
+  "Anuncios": {
+    "mouse": "🖱️Você quer ganhar clutch igual o KSCERATO ?, procure o melhor mouse para você na https://www.fallenstore.com.br/",
+    "teclado": "⌨️Você quer ter o straife bracinho do KSCERATO ?, procure o melhor teclado para você na https://www.fallenstore.com.br/",
+    "monitor": "🖥️Você quer ter o flick de AWP do molodoy ?, procure o melhor monitor para você na https://www.fallenstore.com.br/",
+    "fone": "🎧Você quer passar as calls igual ao do professor FalleN ?, procure o melhor fone para você na https://www.fallenstore.com.br/",
+    "cadeira": "🪑Você quer assisir os jogos do melhor time do Brasil no melhor conforto ?, procure a melhor cadeira para você na https://www.fallenstore.com.br/",
+    "setup": "⚙️Se você quer um setup furioso, procure as melhores opções de periféricos na https://www.fallenstore.com.br/ "
+
+  },
+  "majors": [
+    { "ano": 2019, "torneio": "StarLadder Berlin Major / Katowice Major 2019", "colocacao": "Top 22 / top 22 " },
+    { "ano": 2020, "torneio": "ESL One Rio Major (cancelado)", "colocacao": "-" },
+    { "ano": 2021, "torneio": "PGL Major Stockholm", "colocacao": "Top 8" },
+    { "ano": 2022, "torneio": "IEM Rio Major / PGL Major Antwerp", "colocacao": "top 4 /top 8" },
+    { "ano": 2023, "torneio": "BLAST Paris Major", "colocacao": "Top 16" },
+    { "ano": 2024, "torneio": "PGL Major Copenhagen / Perfect World Shanghai Major", "colocacao": "top 16 / top 11" },
+    { "ano": 2025, "torneio": "Major 1 (CS2)", "colocacao": "A definir" }
+  ],
+  "frases_icônicas": [
+    "É tudo ou nada no clutch!",
+    "Eles são brabos!",
+    "Não é só jogo, é FURIA!",
+    "A call do guerri não falha!",
+    "FURIA é identidade."
+  ],
+  "comandos_utilidade": {
+    "!setup": "Quer jogar com qualidade? Confere os periféricos na Fallen Store: https://www.fallenstore.com.br",
+    "!drip": "Representa a FURIA dentro e fora do server. Confere a loja oficial: https://furia.gg",
+    "!live": "Hoje tem stream dos brabos! Cola na Twitch dos parceiros da FURIA: https://twitch.tv/furia",
+    "!proximojogo": "Para saber o próximo campeonato, acompanhe a agenda no site oficial da FURIA ou HLTV : https://www.hltv.org/team/8297/furia#tab-matchesBox."
+  },
+  "respostas_genericas": {
+    "fora_do_escopo": "🐾Desculpa, não etendi sua pergunta, estou aqui para falar sobre o melhor e maior time de Counter Strike do Brasil😎"
+  },
+  "curiosidades": [
+    "FalleN é o jogador com mais eliminações com AWP em LAN na história do CS:GO.",
+    "yuurih e KSCERATO são a dupla mais longeva da FURIA, jogando juntos desde 2018.",
+    "guerri foi o coach da FURIA até 2024, quando assumiu o cargo de Head de Esports da organização.",
+    "KSCERATO foi o jogador com maior rating da FURIA em quatro temporadas consecutivas (2020–2023).",
+    "Em 2022, a torcida da FURIA no IEM Rio Major foi considerada uma das mais intensas e apaixonadas da história do CS competitivo.",
+    "A FURIA foi o primeiro time brasileiro a alcançar o Top 3 do ranking mundial da HLTV sem nenhum jogador ex-SK/Luminosity."
+  ],
+  "gírias_cs": {
+    "clutch": "🔫 Clutch é quando um jogador vence uma rodada sozinho contra dois ou mais adversários. É aquele momento de herói!",
+    "eco": "💸 Eco é quando o time decide economizar dinheiro, geralmente comprando só pistolas, pra conseguir comprar tudo na próxima rodada.",
+    "entry fragger": "🚪 Entry fragger é o primeiro jogador a entrar num bombsite. Ele tenta conseguir a primeira kill e abrir espaço pro time.",
+    "lurker": "🐍 Lurker é aquele jogador que joga afastado do time, tentando pegar os inimigos de surpresa pelas costas.",
+    "save": "💾 Save é quando um jogador decide guardar sua arma pro próximo round, em vez de tentar um clutch impossível."
+  }
+}
+
+
